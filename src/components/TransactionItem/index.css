@@ -1,1 +1,26 @@
 /* Write your CSS here */
+
+.list {
+  display: flex;
+  flex-direction: row;
+  font-family: 'roboto';
+  color: #475569;
+  font-size: 18px;
+  align-items: center;
+}
+p {
+  font-size: 14px;
+  padding-left: 18px;
+  padding-right: 40px;
+}
+button {
+  margin: 8px;
+}
+img {
+  height: 18px;
+  width: 18px;
+}
+
+hr {
+  width: 100%;
+}

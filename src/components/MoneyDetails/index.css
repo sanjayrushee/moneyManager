@@ -6,6 +6,25 @@
   padding: 30px;
   border-radius: 15px;
 }
+@media screen and (min-width: 768px) {
+  .amount-con {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 15px;
+    width: 40%;
+  }
+  .main-bg {
+    display: flex;
+    flex-direction: row;
+  }
+  .img {
+    height: 100px;
+    width: 100px;
+  }
+}
 .balance-con {
   background-color: #ecfccb;
   border: 1px solid #84cc16;
