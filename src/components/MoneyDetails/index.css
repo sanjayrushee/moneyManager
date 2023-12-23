@@ -4,17 +4,33 @@
   align-items: center;
   margin: 20px;
   padding: 30px;
-  border-radius: 9px;
+  border-radius: 15px;
 }
 .balance-con {
   background-color: #ecfccb;
   border: 1px solid #84cc16;
 }
+.income-con {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+.expenses-con {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}
 .text {
   padding-left: 40px;
   font-family: 'Roboto';
   font-size: 20px;
+  color: #475569;
 }
 .img {
   height: 100px;
+}
+.text-para {
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+.num-para {
+  font-size: 25px;
 }
