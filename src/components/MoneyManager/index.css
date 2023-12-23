@@ -1,0 +1,30 @@
+.main-con {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.dash-board-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 40px;
+  font-family: 'Roboto';
+}
+.name-heading {
+  color: #475569;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+.name-details {
+  color: #475569;
+  font-size: 18px;
+}
+.span-money {
+  color: #0b69ff;
+  font-weight: 400;
+}

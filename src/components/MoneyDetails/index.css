@@ -1,0 +1,20 @@
+.amount-con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 20px;
+  padding: 30px;
+  border-radius: 9px;
+}
+.balance-con {
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+}
+.text {
+  padding-left: 40px;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.img {
+  height: 100px;
+}
